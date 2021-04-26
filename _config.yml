@@ -1,9 +1,9 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-first_name: FirstName
-last_name: LastName
-email: yourname@cs.kuleuven.be
+first_name: Robin
+last_name: Manhaeve
+email: robin.manhaeve@cs.kuleuven.be
 description: > # this means to ignore newlines until "url:"
   KU Leuven PhD researcher at the DTAI research group.
 footer_text: > # Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
@@ -11,31 +11,30 @@ footer_text: > # Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyl
   <a href="https://www.kuleuven.be/kuleuven/" target="_blank">KU Leuven</a>.
   
 
-show_news: true
+show_news: false
 show_address: true
  
-url:  # the base hostname & protocol for your site
-baseurl: # the subpath of your site, e.g. /blog/
+url: https://people.cs.kuleuven.be
+baseurl: /~robin.manhaeve
 last_updated: # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
 # KU Leuven integration
 # -----------------------------------------------------------------------------
-ku_leuven_personnel_number: "0XXXXXX"
+ku_leuven_personnel_number: "0117389"
 
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: # your GitHub user name
-twitter_username: # your Twitter handle
+github_username: rmanhaeve
+twitter_username: ManhaeveRobin
 linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
-orcid_id: # your ORCID ID
+scholar_userid: pQht1BIAAAAJ
+orcid_id: 0000-0001-9907-7486
 medium_username: # your Medium username
 quora_username: # your Quora username
 
-contact_note: >
-  You can reach me on firstname.lastname@kuleuven.be
+contact_note:
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
@@ -48,10 +47,10 @@ collections:
   news:
     defaults:
       layout: post
-    output: true
+    output: false
     permalink: /news/:path/
   projects:
-    output: true
+    output: false
     permalink: /projects/:path/
 
 news_limit: 5
@@ -66,7 +65,7 @@ highlighter: rouge #pygments
 
 # Includes & excludes
 include: ['_pages']
-exclude: [vendor, bin]
+exclude: [vendor, bin, oldpages]
 
 # Plug-ins
 plugins:
@@ -82,7 +81,7 @@ use_scholar: false # Set this to true if you want to use jekyll-scholar instead 
 
 scholar:
     sort_by: year, month
-    last_name: Lastname # Your last name, this enables underlining your name in your publications
+    last_name: Manhaeve # Your last name, this enables underlining your name in your publications
     order: descending
     bibliography_template: bib
     bibtex_skip_fields: 
