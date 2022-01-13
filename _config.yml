@@ -5,7 +5,7 @@ first_name: Robin
 last_name: Manhaeve
 email: robin.manhaeve@cs.kuleuven.be
 description: > # this means to ignore newlines until "url:"
-  KU Leuven PhD researcher at the DTAI research group.
+  KU Leuven postdoctoral researcher at the DTAI research group.
 footer_text: > # Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   <a href="https://dtai.cs.kuleuven.be/" target="_blank">DTAI</a>.
   <a href="https://www.kuleuven.be/kuleuven/" target="_blank">KU Leuven</a>.
