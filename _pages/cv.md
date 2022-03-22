@@ -28,10 +28,10 @@ I'm {{ site.first_name }} {{ site.last_name }}, a postdoctoral researcher in the
 # Reviewing
 
 ### Journals
-
+ - IEEE Intelligent Systems
 
 ### Conferences
-
+- ECML-PKDD 2022
 - IJCAI-ECAI 2022
 - IJCAI 2021
 - IJCLR 2021
@@ -47,5 +47,7 @@ I'm {{ site.first_name }} {{ site.last_name }}, a postdoctoral researcher in the
 
 ### Teaching Assistant
 
-
-
+ - Fundamentals of AI 2021
+ - Artificiële Intelligentie  2017 - 2020
+ - Machine Learning: Project 2019 - 2022
+ - Capita Selecta: Contemporary topics in AI 2019 - 2020
