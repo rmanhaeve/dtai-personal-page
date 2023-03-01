@@ -9,6 +9,8 @@ For more about how to use Jekyll, check out [this tutorial](https://www.taniaras
 
 ### Installation
 
+Don't use Ruby 3, use Ruby 2, or use the original template instead: [https://github.com/alshedivat/al-folio](https://github.com/alshedivat/al-folio)
+
 Assuming you have [Ruby v2](https://www.ruby-lang.org/en/downloads/) (Ruby+Devkit on Windows) and [Bundler](https://bundler.io/) installed on your system, first fork the theme to `github.com:<your-username>/<your-repo-name>` and do the following:
 
 ```bash
