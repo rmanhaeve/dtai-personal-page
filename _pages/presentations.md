@@ -2,7 +2,7 @@
 layout: page
 permalink: /presentations/
 
-title: Presentations
+title: presentations
 ---
 
 ### Tutorials
