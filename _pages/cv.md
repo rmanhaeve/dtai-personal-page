@@ -10,10 +10,10 @@ I'm {{ site.first_name }} {{ site.last_name }}, a postdoctoral researcher in the
 I've been involved in the following projects:
 
 ### [DeepLog](https://wms.cs.kuleuven.be/cs/onderzoek/deeplog)
-DeepLog is a foundational NeSy project exploring the integration of neural networks with logical and probabilistic reasoning. It aims to shift the paradigm by defining core primitives that unify logical, probabilistic, and neural representations. It will be an open-source Python software package for implementing and evaluating a broad range of NeSy systems and applications.
+DeepLog is a foundational NeSy project exploring the integration of neural networks with logical and probabilistic reasoning. It aims to shift the paradigm by defining core primitives that unify logical, probabilistic, and neural representations. Its [open-source Python package](https://github.com/ML-KULeuven/deeplog) is for implementing and evaluating a broad range of NeSy systems and applications.
 
 ### [iBOF: Automating Data Science: the Next Frontiers](https://research.kuleuven.be/portal/en/project/3E210057)
-I had a minor adivsory role on a project on fairness and mitigating bias using Probabilistic Logic Programming.
+I had a minor advisory role on a project on fairness and mitigating bias using Probabilistic Logic Programming.
 
 ### [Flanders AI Research](https://www.flandersairesearch.be/en)
 I was involved as a PostDoc on a project related to *Decision Support for the Low Voltage Grid*.
@@ -51,7 +51,13 @@ I was briefly involved in the Synth project at the start of my PhD, but moved on
 - IEEE Intelligent Systems
 
 ### Conferences
+- AAAI 2027
+- NeSy 2026
+- NeuS 2026
+- AAAI 2026
 - NeSy 2025
+- IDA 2025
+- NeSy 2024
 - KR 2024
 - AAAI 2024
 - ECAI 2023
@@ -63,12 +69,20 @@ I was briefly involved in the Synth project at the start of my PhD, but moved on
 - IJCLR 2021
 - AAAI 2020
 
+### Workshops
+
+- NILA (IJCAI-ECAI 2026)
+- NeSy 2023
+- NeSy-GeMs (ICLR 2023)
+- CLeaR (AAAI 2022)
+- AIPLANS (NeurIPS 2021)
+- NSNLI (IJCAI 2021)
 
 # Teaching
 
 ### Teaching Assistant
 
- - Fundamentals of AI 2021 - 2024
+ - Fundamentals of AI 2021 - 2026
  - Artificiële Intelligentie  2017 - 2020
  - Machine Learning: Project 2019 - 2024
  - Capita Selecta: Contemporary topics in AI 2019 - 2020 / 2024
