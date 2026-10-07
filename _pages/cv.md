@@ -4,13 +4,11 @@ permalink: /cv/
 
 title: CV
 ---
-I'm {{ site.first_name }} {{ site.last_name }}, a postdoctoral researcher in the <a href="https://dtai.cs.kuleuven.be/" target="_blank">DTAI</a> research group at <a href="https://www.kuleuven.be/kuleuven/" target="_blank">KU Leuven</a>. My main research interest lies in neural-symbolic integration (NeSy), more specifically the integration of neural networks and probabilistic logic programming.
-
 # Projects
 I've been involved in the following projects:
 
 ### [DeepLog](https://wms.cs.kuleuven.be/cs/onderzoek/deeplog)
-DeepLog is a foundational NeSy project exploring the integration of neural networks with logical and probabilistic reasoning. It aims to shift the paradigm by defining core primitives that unify logical, probabilistic, and neural representations. Its [open-source Python package](https://github.com/ML-KULeuven/deeplog) is for implementing and evaluating a broad range of NeSy systems and applications.
+DeepLog is a foundational NeSy project exploring the integration of neural networks with logical and probabilistic reasoning. It aims to shift the paradigm by defining core primitives that unify logical, probabilistic, and neural representations. Its [open-source Python package](https://github.com/ML-KULeuven/deeplog) is for implementing and evaluating a broad range of NeSy systems and applications. I am the lead developer of this software framework and a shared first author of [*The DeepLog Neurosymbolic Machine*](https://arxiv.org/abs/2508.13697), the paper that sets out its theory.
 
 ### [iBOF: Automating Data Science: the Next Frontiers](https://research.kuleuven.be/portal/en/project/3E210057)
 I had a minor advisory role on a project on fairness and mitigating bias using Probabilistic Logic Programming.
