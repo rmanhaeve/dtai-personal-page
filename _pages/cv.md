@@ -4,6 +4,42 @@ permalink: /cv/
 
 title: CV
 ---
+# Positions
+
+### Postdoctoral researcher
+- KU Leuven, 2022-present
+- Research Group: DTAI
+
+### PhD researcher
+- KU Leuven, 2017-2021
+- Research Group: DTAI
+
+# Degrees
+
+### PhD in Engineering Science: Computer Science
+- KU Leuven, 2017-2021
+- Thesis title: *Neural Probabilistic Logic Programming*
+- Promotor: Professor Luc De Raedt
+- Research Group: DTAI
+- Funding: SB fellowship provided by FWO
+
+### Master in Engineering Science: Computer Science
+- KU Leuven, 2015-2017
+- Thesis title: *Realtime Road User Detection and Classification with Single Pass Deep Learning*
+- Promotor: Professor Luc De Raedt
+- Daily advisor: Kurt De Grave
+- Research Group: DTAI
+
+### Bachelor in Engineering Science
+- KU Leuven, 2012 - 2015
+- Major / minor: Computer Science / Electrical Engineering
+
+# Awards and funding
+
+- Postdoctoral mandate (PDM), KU Leuven internal funds (BOF), 2022
+- SB PhD fellowship, Research Foundation - Flanders (FWO)
+- Spotlight presentation at NeurIPS 2018 for [*DeepProbLog: Neural Probabilistic Logic Programming*](https://proceedings.neurips.cc/paper/2018/hash/dc5d637ed5e62c36ecb73b654b05ba2a-Abstract.html)
+
 # Projects
 I've been involved in the following projects:
 
@@ -21,25 +57,6 @@ I was involved as a PostDoc to help with managing Work Package 4 on *Unifying Pa
 
 ### [Synth](https://synth.cs.kuleuven.be/)
 I was briefly involved in the Synth project at the start of my PhD, but moved on to my personal FWO funding afterwards.
-
-# Degrees
-
-### PhD in Engineering Science: Computer Science
-- KU Leuven, 2017-2021
-- Thesis title: *Neural Probabilistic Logic Programming*
-- Promotor: Professor Luc De Raedt
-- Research Group: DTAI
-- Funding: SB fellowship provided by FWO
-
-### Master in Engineering Science: Computer Science
-- KU Leuven, 2015-2017
-- Thesis title: *Realtime Road User Detection and Classification with Single Pass Deep Learning*
-- Promotor: Professor Luc De Raedt
-- Research Group: DTAI
-
-### Bachelor in Engineering Science
-- KU Leuven, 2012 - 2015
-- Major / minor: Computer Science / Electrical Engineering
 
 # Reviewing
 
